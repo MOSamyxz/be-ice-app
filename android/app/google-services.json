@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314709915769",
+    "project_id": "be-ice-f725f",
+    "storage_bucket": "be-ice-f725f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314709915769:android:b1f0e60c6b66f13ba03ca8",
+        "android_client_info": {
+          "package_name": "com.moo.beice.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAysD5a2NgTFiGnDTmbNh36L2kkawXYols"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
